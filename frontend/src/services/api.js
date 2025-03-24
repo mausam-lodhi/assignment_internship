@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://assignment-internship-1-dfu0.onrender.com/api";
+const API_URL = "https://assignment-internship-gbw4.onrender.com/api";
 
 const api = {
 	// User registration
