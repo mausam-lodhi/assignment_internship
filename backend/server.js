@@ -11,7 +11,7 @@ const app = express();
 // Middleware
 app.use(
 	cors({
-		origin: ["http://localhost:3000", "http://localhost:5173"], // Add your frontend URLs
+		origin: ["https://assignment-internship-1-dfu0.onrender.com"], // Add your frontend URLs
 		methods: ["GET", "POST", "PUT", "DELETE"],
 		credentials: true,
 	})
