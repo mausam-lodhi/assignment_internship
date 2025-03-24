@@ -29,7 +29,7 @@ export const Register = () => {
 		}
 
 		try {
-			const response = await fetch("https://assignment-internship-1-dfu0.onrender.com/api/register", {
+			const response = await fetch("https://assignment-internship-gbw4.onrender.com/api/register", {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
